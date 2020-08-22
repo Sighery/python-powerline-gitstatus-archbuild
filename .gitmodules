@@ -1,0 +1,3 @@
+[submodule "python-powerline-gitstatus"]
+	path = python-powerline-gitstatus
+	url = https://aur.archlinux.org/python-powerline-gitstatus.git
